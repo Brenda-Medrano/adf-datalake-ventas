@@ -1,0 +1,9 @@
+{
+	"name": "df-ucb-sisger-datalake-01",
+	"location": "eastus2",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "4582acd1-b9ad-43f4-bd71-870a72835e89",
+		"tenantId": "cc28633f-12b8-46cb-bc15-951dae239b4d"
+	}
+}
